@@ -9,4 +9,4 @@
 
 - <b>HTML,CSS</b> 
 - <b>Visual Studio Code (IDLE)</b>
-<img width="1440" alt="Screenshot 2024-02-04 at 11 08 39 PM" src="https://github.com/maryambaig105/fun-facts-about-crochet/assets/154369139/a95e0e59-6fe0-4b4a-8c82-b26848353c0d">
+<img width="1440" alt="Screenshot 2024-02-06 at 4 17 09 PM" src="https://github.com/maryambaig105/fun-facts-about-crochet/assets/154369139/fcd215c9-7900-46a6-a651-bcf38fff3b6c">
